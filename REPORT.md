@@ -23,8 +23,9 @@ This is the different Master Theorem case mentioned in the assignment: QuickSele
 
 ## 3. Plots
 
-Insert `plot1_time.png`, `plot2_depth.png`, `plot3_ratio.png` (generated with `plot_results.py`) here.
-
+![plot1_time.png](plot1_time.png)
+![plot2_depth.png](plot2_depth.png)
+![plot3_ratio.png](plot3_ratio.png)
 ## 4. Θ Check
 
 Ratio = comparisons / (n·log2 n) for MergeSort/QuickSort, comparisons / n for QuickSelect:
